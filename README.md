@@ -20,4 +20,4 @@
 🎓 **Técnico em Informática** pelo Instituto Federal de Educação, Ciência e Tecnologia Farroupilha - *Campus* Santo Ângelo (IFFar)
 
 ---
-Espero que aproveitem meu Github, e quualquer coisa estou a disposição!
+Espero que aproveitem meu Github, e qualquer coisa estou a disposição!
